@@ -1,7 +1,7 @@
 # Developed for MFC EXC1083
 ## Contributors
-### Ujjwal Agarwal 
 ### Aavesh Khan 20BEE0245
+### Ujjwal Agarwal 20BCI0102
 
 ## Getting Started
 
